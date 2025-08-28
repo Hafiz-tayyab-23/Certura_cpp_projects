@@ -54,8 +54,8 @@ This repository contains **three C++ projects** designed to demonstrate **Object
 
 ---
 
-📈 Learning Outcomes
-Implementing real-world systems using C++
-Understanding file persistence (Text/CSV)
-Practicing OOP design principles
-Creating user-friendly CLI applications
+## 📈 Learning Outcomes
+-Implementing real-world systems using C++<br>
+-Understanding file persistence (Text/CSV)<br>
+-Practicing OOP design principles<br>
+-Creating user-friendly CLI applications<br>
