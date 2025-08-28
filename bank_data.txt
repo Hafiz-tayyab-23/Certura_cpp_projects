@@ -1,0 +1,23 @@
+NEXT_IDS: CUS=3 ACC=3
+TOTAL_CUSTOMERS: 2
+
+CUSTOMER: CUS-0001
+NAME: Tayyab
+PASSWORD: 12345
+ACCOUNTS: 1
+
+  ACCOUNT: ACC-NO-00001
+  BALANCE: 0
+  TRANSACTIONS: 0
+
+----------------------------------------
+CUSTOMER: CUS-0002
+NAME: John
+PASSWORD: 54321
+ACCOUNTS: 1
+
+  ACCOUNT: ACC-NO-00002
+  BALANCE: 0
+  TRANSACTIONS: 0
+
+----------------------------------------
