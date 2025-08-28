@@ -43,13 +43,13 @@ This repository contains **three C++ projects** designed to demonstrate **Object
 ---
 
 ## 📂 Repository Structure
-📦 cpp-mini-projects
-┣ 📜 banking_system.cpp
-┣ 📜 tic_tac_toe.cpp
-┣ 📜 student_record_system.cpp
-┣ 📜 bank_data.txt # Auto-generated storage for banking system
-┣ 📜 scores.txt # Auto-generated scores for tic-tac-toe
-┣ 📜 students.csv # Auto-generated student records
+📦 cpp-mini-projects<br>
+┣ 📜 banking_system.cpp<br>
+┣ 📜 tic_tac_toe.cpp<br>
+┣ 📜 student_record_system.cpp<br>
+┣ 📜 bank_data.txt # Auto-generated storage for banking system<br>
+┣ 📜 scores.txt # Auto-generated scores for tic-tac-toe<br>
+┣ 📜 students.csv # Auto-generated student records<br>
 ┗ 📜 README.md
 
 ---
